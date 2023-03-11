@@ -1,5 +1,5 @@
  <div align="center">
- <h1> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="80px"><br/>Curso de Linguagem Python 3 – Mundo 01: Fundamentos</h1>
+ <h1> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="250px"><br/>Curso de Linguagem Python 3 – Mundo 01: Fundamentos</h1>
      </div>
 
 
@@ -16,6 +16,7 @@ Durante o curso foram abordados os seguintes temas:
 - manipulação de Caractéres.
 
 # Screenshots
+ <img src="https://i.imgur.com/k7LBQFY.png"> <img src="https://i.imgur.com/gJlsuu6.png">
  <img src="https://i.imgur.com/KPmlocf.png"> <img src="https://i.imgur.com/1g9U8qh.png">
 # Tech Used
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
